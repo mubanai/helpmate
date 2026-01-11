@@ -1,1 +1,1 @@
-import{a}from"/helpmate/chunk-E7ZOKENL.js";import"/helpmate/chunk-S5EYVFES.js";export{a as startFocusVisible};
+import{a}from"./chunk-E7ZOKENL.js";import"./chunk-S5EYVFES.js";export{a as startFocusVisible};
